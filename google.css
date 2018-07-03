@@ -1,0 +1,88 @@
+.entête {
+	position: absolute;
+	right: 7px;
+	top: 10px;
+	word-spacing: 20px;
+	outline: none;
+}
+.button {
+	width: 100px;
+	height: 30px;
+	background-color: blue;
+	color: #fff;
+	font-size: 15px;
+	border-radius: 50px;
+	cursor: pointer;
+}
+#image {
+	width: 17px;
+	height: 17px;
+}
+.centre {
+	margin-top: 150px;
+	text-align: center;
+}
+.google_search {
+	width: 550px;
+	height: 45px;
+	box-shadow: 0px 6px 8px silver;
+	border-top: 1px solid silver;
+	border-left: 0px;
+}
+.Feeling {
+	margin-top: 40px;
+	text-align: center;
+}	
+.langue {
+	margin-top: 30px;
+	text-align: center;
+}
+.search {
+	width: 200px;
+	height: 40px;
+	border-top: 0px;
+	border-left: 0px;
+	border-bottom: 0px;
+	border-right: 0px;
+	opacity: 0,5;
+	cursor: pointer;
+}
+.Feeling button:hover {
+	border: 1px 1px 1px 1px;
+	background-color: #f2f2f2;
+	color: red;
+}
+.Mada {
+	position: absolute;
+	bottom: 40px;
+	height: 50px;
+	width: 100%;
+	background-color: #f2f2f2;
+	border: 1px solid silver;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+.bas {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	height: 50px;
+	background-color: #f2f2f2;
+	border: 1px solid silver;
+}
+.gauche {
+	float:left;
+	padding-top: 20px;
+	word-spacing: 25px;
+	padding-left: 10px;
+}
+.droite {
+	float: right;
+	padding-top: 20px;
+	word-spacing: 25px;
+	padding-right: 30px;
+}
+.entête button:hover {
+	background-color: yellow;
+	color: blue;
+}
